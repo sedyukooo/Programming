@@ -1,0 +1,4 @@
+﻿  3.cpp
+C:\Users\User\Desktop\Programming\Practice\03\C++\3\3\3.cpp(5,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Programming\Practice\03\C++\3\3\3.cpp(12,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  3.vcxproj -> C:\Users\User\Desktop\Programming\Practice\03\C++\3\Debug\3.exe

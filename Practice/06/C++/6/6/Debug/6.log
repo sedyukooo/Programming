@@ -1,0 +1,6 @@
+﻿  6.cpp
+C:\Users\User\Desktop\Programming\Practice\06\C++\6\6\6.cpp(8,21): warning C4101: x1: неиспользованная локальная переменная
+C:\Users\User\Desktop\Programming\Practice\06\C++\6\6\6.cpp(8,29): warning C4101: x: неиспользованная локальная переменная
+C:\Users\User\Desktop\Programming\Practice\06\C++\6\6\6.cpp(8,18): warning C4101: D: неиспользованная локальная переменная
+C:\Users\User\Desktop\Programming\Practice\06\C++\6\6\6.cpp(8,25): warning C4101: x2: неиспользованная локальная переменная
+  6.vcxproj -> C:\Users\User\Desktop\Programming\Practice\06\C++\6\Debug\6.exe
