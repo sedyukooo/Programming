@@ -1,3 +1,9 @@
-a=3
-b=99
-print(b+a, b-a, a*b, b/a)
+a=int(input())
+b=int(input())
+
+print(a+b,a-b,a*b,a/b)
+
+x=float(input())
+y=float(input())
+
+print(x+y,x-y,x*y,x/y)
