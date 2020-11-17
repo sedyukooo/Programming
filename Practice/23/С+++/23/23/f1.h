@@ -1,16 +1,11 @@
-#include <iostream>
 #pragma once
+#include <iostream>
 
-void factorial() {
-    using namespace std;
-    int n, rezult = 1;
-    cin >> n;
+int factorial()
+{
+	int n, i = 1, rezult = 1;
+	for (i; i <= n; i++)
+		rezult = rezult * i;
+	return rezult;
 
-    if (n >= 0) {
-        for (int i = 1; i <= n; i++)
-        {
-            rezult *= i;
-        }
-        cout << rezult;
-    }
 }

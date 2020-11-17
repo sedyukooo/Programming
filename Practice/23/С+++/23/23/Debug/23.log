@@ -1,2 +1,15 @@
 ﻿  23.cpp
-C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\23.cpp(8,15): error C2065: factorial: необъявленный идентификатор
+C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\f2.h(12,81): error C2660: factorial: функция не принимает 1 аргументов
+C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\f1.h(4,5): message : см. объявление "factorial"
+C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\f2.h(13,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\f3.h(10,22): error C2660: factorial: функция не принимает 1 аргументов
+C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\f1.h(4,5): message : см. объявление "factorial"
+C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\f3.h(10,38): error C2660: factorial: функция не принимает 1 аргументов
+C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\f1.h(4,5): message : см. объявление "factorial"
+C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\f3.h(10,57): error C2660: factorial: функция не принимает 1 аргументов
+C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\f1.h(4,5): message : см. объявление "factorial"
+C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\23.cpp(9,27): error C2660: factorial: функция не принимает 1 аргументов
+C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\f1.h(4,5): message : см. объявление "factorial"
+C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\23.cpp(13,24): error C2661: sin: нет перегруженной функции, принимающей 2 аргументов
+C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\23.cpp(16,19): error C2660: f: функция не принимает 2 аргументов
+C:\Users\User\Desktop\Programming\Practice\23\С+++\23\23\f3.h(7,5): message : см. объявление "f"

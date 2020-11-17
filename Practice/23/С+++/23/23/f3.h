@@ -1,14 +1,15 @@
 #ifndef F3_H
 #include "f1.h"
 #include <iostream>
+#define F3_H
 
-int sin()
+
+int f()
 {
-    double x, y, rezult = 0;
-    int i = 0;
-    for (i; i < y; ++i)
-        rezult = rezult + (pow(-1, i) * (pow(x, 2 * i + 1)) / (factorial(2 * i + 1)));
-   
+	int i, y, rezult;
+	rezult = factorial(i) / (factorial(y) * factorial(i - y));
+	return rezult;
 }
-#endif F3_H
 
+
+#endif
