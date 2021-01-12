@@ -43,7 +43,7 @@ ________________________________________________________________________________
 
 При вводе данного запроса в строку браузера получаем json ответ с нужной нам информацией о погоде (Рис. 1)
 
-![](./Pictures/01.png)
+p align="center"> <img src="./image/01.png"> </p>
 
  <p align="center">Рис. 1 - json ответ о погоде<br>
 
@@ -51,13 +51,14 @@ ________________________________________________________________________________
 
 При вводе данного запроса получаем json ответ с нужной нам информацией о времени (Рис. 2)
 
-![](./Pictures/02.png)
+<p align="center"> <img src="./image/02.png"> </p>
 
 <p align="center">Рис. 2 - json ответ о времени<br>
 
 4. Код сервера на языке С++ (Рис. 3):
 
-```#include <iostream>
+```C++
+#include <iostream>
 #include <string>
 #include <iomanip>
 #include <fstream>
@@ -145,7 +146,7 @@ int main() {
 }
 ```
 
-![](./Pictures/03.png)
+<p align="center"> <img  src="./image/03.png"> </p>
 
 <p align="center">Рис. 3 - html виджет<br>
 
@@ -153,7 +154,7 @@ int main() {
 
 
 
-```
+```Python
 from tkinter import *
 from tkinter.font import BOLD
 import requests
@@ -192,11 +193,9 @@ temp.pack(expand=True)
 
 root.mainloop()
 ```
-![](./Pictures/04.png)
+<p align="center"> <img  src="./image/04.png"> </p>
 
 <p align="center">Рис. 4 - Интерфейс клиенского приложения<br>
 
 ## Вывод:
 Разработал серверное и клиенсткое приложение, для этого использовал библиоетки json и cpp-httplib. Научился работать с API. Разобрался в сетевом взаимодействии приложений, принципе работы Req запросов.
-
-Картинки не появились
